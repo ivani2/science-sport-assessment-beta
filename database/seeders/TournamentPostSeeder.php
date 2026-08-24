@@ -27,7 +27,7 @@ class TournamentPostSeeder extends Seeder
                 'title' => 'Golf Classic Tournament',
                 'subtitle' => 'Empowering Students Through Sports',
                 'event_date' => '2026-09-09',
-                'location' => fake()->city(), //just one record with fake city for fun
+                'location' => 'Monterrey Country Club',
                 'excerpt' => 'Support Science of Sport through a golf event that helps bring
                   transformational learning experiences to students across LA County.',
                 'body' => 'When you tee it up at the Science of Sport Golf Classic, you drive the
